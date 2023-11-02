@@ -1,16 +1,36 @@
-### Hi there 👋
+# Witaj na moim profilu GitHub! 👋
 
-<!--
-**Arakdiusz/Arakdiusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cześć! Nazywam się Arkadiusz Wiśniewski i jestem testerem manualnym oraz początkującym testerem automatyzującym. Na tej stronie znajdziesz różne projekty, które realizuję w ramach nauki i rozwijania swoich umiejętności w zakresie testowania oprogramowania.
 
-Here are some ideas to get you started:
+## Umiejętności 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Testy Manualne:** Opracowywanie przypadków testowych, scenariuszy testowych, raportowanie błędów, weryfikacja dokumentacji.
+- **Podstawy Automatyzacji:** Selenium WebDriver, Behave, Python, pytest.
+- **Narzędzia:** JIRA, GitHub.
+- **Metodologie:** Agile Scrum.
+
+## Projekty 🛠️
+
+### Projekt 1: Testy Manualne dla aplikacji XYZ
+- Opracowanie i wykonanie scenariuszy testowych.
+- Identyfikacja, rejestrowanie i śledzenie błędów za pomocą JIRA.
+- Sprawozdanie z postępów i współpraca z zespołem programistycznym w celu naprawy błędów.
+
+### Aytomatyzacja: Wprowadzenie do Automatyzacji Testów
+- Automatyzacja prostych przypadków testowych za pomocą Selenium WebDriver i Python.
+- Eksploracja różnych narzędzi do automatyzacji i wybór odpowiednich dla projektu.
+- Nauka podstaw Behave jako narzędzia do testów BDD.
+
+
+## Szkolenia i Certyfikaty 📚
+
+- Skończone kursy CodersLab z tematyki Tester Manualny oraz Tester Automatyzujący
+- Kurs Automatyzacji Testów z Selenium i Python na platformie Udemy
+
+## Kontakt 📬
+
+Chętnie poznam nowych ludzi i otwarty jestem na nowe możliwości! Skontaktuj się ze mną przez:
+- LinkedIn: https://www.linkedin.com/in/arkadiusz-wi%C5%9Bniewski-625b2a244/
+- E-mail: wisniewski.arek99@gmail.com	
+
+Dziękuję za odwiedzenie mojego profilu! 😄
