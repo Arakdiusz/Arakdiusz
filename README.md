@@ -11,9 +11,9 @@ Cześć! Nazywam się Arkadiusz Wiśniewski i jestem testerem manualnym oraz poc
 
 ## Projekty 🛠️
 
-### Projekt 1: Testy Manualne dla aplikacji XYZ
-- Opracowanie i wykonanie scenariuszy testowych.
-- Identyfikacja, rejestrowanie i śledzenie błędów za pomocą JIRA.
+### Projekt 1: Testy Manualne dla aplikacji CMS
+- Wykonanie scenariuszy testowych.
+- Identyfikacja, rejestrowanie i śledzenie błędów za pomocą aplikacji wewnętrznych.
 - Sprawozdanie z postępów i współpraca z zespołem programistycznym w celu naprawy błędów.
 
 ### Aytomatyzacja: Wprowadzenie do Automatyzacji Testów
